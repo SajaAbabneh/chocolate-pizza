@@ -5,8 +5,6 @@ body{
     width: 90%;
     display: block;
     margin-left: 70px;
-    
-    
 }
 header{
     margin-top: 24px;
@@ -26,8 +24,7 @@ header{
 
 header h2{
     font-size: xx-large;
-    /* font-weight: bold; */
-    font-family: cursive;
+    font-family:cursive;
     margin-left: 45px;
 }
 
@@ -74,7 +71,7 @@ header h6{
     width: 22px;
     }
 .hero{
-      width: 100%;
+      width: 90%;
       margin-top: 20px;
     }
 .parg{
@@ -104,6 +101,27 @@ header h6{
      color: grey;
      font-size: 20px;
     }
+
+.list1{
+    float: left;
+    margin-right:  255px;;
+    margin-left: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 27.5px;
+
+}
+.list2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 27.5px;
+}
+.list{
+    margin-top: 30px;
+    margin-bottom: 35px;
+    
+}
+.through{
+    text-decoration: line-through;
+}
 
 .grey{
      display:flex;
