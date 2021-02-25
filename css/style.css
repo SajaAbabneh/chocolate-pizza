@@ -172,3 +172,17 @@ margin-bottom: 35px;
      color: grey;
      margin-top: 30px;
  }
+
+ .ricp{
+    width: calc(100%/2);
+    float: left;
+    font-size: 27px;
+    background-image: url(./image/list-bg.png);
+    
+    
+}
+
+.check-with-label:checked + .label-for-check {
+    text-decoration: line-through;
+    padding: 5px;
+  }
